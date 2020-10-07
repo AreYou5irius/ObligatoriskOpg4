@@ -1,0 +1,23 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Obligatorisk opg 4.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Obligatorisk opg 4.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Obligatorisk opg 4.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Obligatorisk opg 4.runtimeconfig.dev.json
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Obligatorisk opg 4.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\Obligatorisk opg 4.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.csprojAssemblyReference.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.RazorTargetAssemblyInfo.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.csproj.CopyComplete
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\staticwebassets\Obligatorisk opg 4.StaticWebAssets.Manifest.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\staticwebassets\Obligatorisk opg 4.StaticWebAssets.xml
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Obligatorisk opg 4 Simple REST Service\Obligatorisk opg 4\Obligatorisk opg 4\obj\Debug\netcoreapp3.1\Obligatorisk opg 4.genruntimeconfig.cache
