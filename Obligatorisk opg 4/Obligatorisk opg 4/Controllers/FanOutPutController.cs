@@ -13,14 +13,22 @@ namespace Obligatorisk_opg_4.Controllers
     [ApiController]
     public class FanOutPutController : ControllerBase
     {
-        private static int nextId = 3;
+
 
         private static readonly List<FanOutput> measurments = new List<FanOutput>()
         {
-            new FanOutput(1, "AZ",21,40),
-            new FanOutput(2, "BF", 15,51)
+            new FanOutput(Id, "AZ",21,40),
+            new FanOutput(Id, "BF", 15,51)
 
         };
+
+        private static int _id = 1;
+
+        public static int Id
+        {
+            get => _id++;
+            set => _id = value;
+        }
 
         // GET: api/<FanOutPutController>
         [HttpGet]
@@ -40,8 +48,8 @@ namespace Obligatorisk_opg_4.Controllers
         [HttpPost]
         public void Post([FromBody] FanOutput value)
         {
-            value.Id = nextId++;
-            measurments.Add(value);
+
+            measurments.Add(new FanOutput(Id, value.Navn, value.Temp, value.Fugt));
         }
 
         // PUT api/<FanOutPutController>/5
@@ -51,8 +59,6 @@ namespace Obligatorisk_opg_4.Controllers
             FanOutput item = Get(id);
             if (item != null)
             {
-
-                item.Id = value.Id;
                 item.Navn = value.Navn;
                 item.Temp = value.Temp;
                 item.Fugt = value.Fugt;

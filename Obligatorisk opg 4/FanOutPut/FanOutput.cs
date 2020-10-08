@@ -51,12 +51,12 @@ namespace FanLibrary
             }
         }
 
-        public FanOutput(int _id, string _navn, double _temp, double _fugt)
+        public FanOutput(int id, string navn, double temp, double fugt)
         {
-            Id = _id;
-            Navn = _navn;
-            Temp = _temp;
-            Fugt = _fugt;
+            Id = id;
+            Navn = navn;
+            Temp = temp;
+            Fugt = fugt;
 
         }
 
